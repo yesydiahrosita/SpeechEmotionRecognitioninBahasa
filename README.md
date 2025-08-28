@@ -1,5 +1,5 @@
 # SpeechEmotionRecognitioninBahasa
-This repository contains a speech dataset in the Indonesian language** with 5 types of emotions, along with program code for building an emotion classification model using deep learning techniques.  
+This repository contains a speech dataset in the Indonesian language **with 5 types of emotions**, along with program code for building an emotion classification model using deep learning techniques.  
 This project is intended for research and development in the field of Speech Emotion Recognition (SER).
 
 ## 📂 Dataset
