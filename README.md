@@ -22,3 +22,17 @@ The dataset was built from two sources:
 - **Publicly available emotional speech recordings** from actors, with proper permission. No personal identifiers are included, so ethical considerations and privacy are preserved.
 
 To minimize bias, the dataset was designed with diversity in speakers and regularly validated during training.
+
+## 📂 Model Scenarios
+
+The classification model was developed through **54 experimental scenarios** designed to evaluate different combinations of methods, architectures, and audio features.  
+
+- **Model Types**: CNN, LSTM, and hybrid CNN-LSTM (3 layers each)  
+- **Features Used**: MFCC, Chroma, Mel, Energy, and Zero Crossing Rate (ZCR)  
+- **MFCC Variants**: 13, 25, and 40 coefficients to assess their effect on accuracy  
+- **Neurons per Layer**: 32, 64, and 128 (varied to balance complexity vs generalization)  
+
+To improve performance and prevent overfitting, **dropout regularization** and **hyperparameter tuning** were applied.  
+
+The use of **MFCC** as the primary feature was chosen due to its effectiveness in representing speech characteristics, especially timbre and tonal variations.  
+This systematic approach allows comprehensive comparison across models and helps identify the **optimal configuration** for emotion classification.
