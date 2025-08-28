@@ -58,7 +58,8 @@ By using actors and scripted speech, this study avoids the use of sensitive real
 
 ## 📂 References
 If you use this dataset in your research or publications, please cite the related papers listed at the following link: 
-1.   
+1. Rosita, Y. D., Salsabila, Z., & Pamungkas, A. R. P. (2025). Lecturer Evaluation from the Perspective of Speech
+Emotion Recognition with Deep Learning, "2025 International Conference on Data Science and Its Applications (ICoDSA), 2025, pp. (on process in publishing), doi: (on process in publishing).
 2. Rosita, Y. D., Firmansyah, M. R., & Utami, A. (2025). Exploring bibliometric trends in speech emotion recognition (2020-2024). IAES International Journal of Artificial Intelligence (IJ-AI), 14(4), 3421. https://doi.org/10.11591/ijai.v14.i4.pp3421-3434
  
 Proper citation helps acknowledge the original contributors and supports further development of open research in **Speech Emotion Recognition (SER)**.
