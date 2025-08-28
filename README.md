@@ -14,3 +14,11 @@ The dataset consists of human voice recordings in `.wav` format, categorized int
 3. Surprise (Terkejut)  
 4. Angry (Marah)  
 5. Sad (Sedih)  
+
+All recordings are in `.wav` format with an average duration of **3–5 seconds**, which is sufficient to capture emotional characteristics in speech.
+
+The dataset was built from two sources:  
+- **Direct recordings** from lecturers with diverse backgrounds and teaching subjects, using wireless microphones for clarity. Each lecturer was provided with speech scripts corresponding to specific emotions.  
+- **Publicly available emotional speech recordings** from actors, with proper permission. No personal identifiers are included, so ethical considerations and privacy are preserved.
+
+To minimize bias, the dataset was designed with diversity in speakers and regularly validated during training.
