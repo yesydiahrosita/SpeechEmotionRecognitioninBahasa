@@ -6,8 +6,13 @@ This project is intended for research and development in the field of Speech Emo
 The dataset includes **1,600 audio samples** in total:  
 - **491 positive samples** (250 Happy, 241 Surprise)  
 - **619 negative samples** (337 Angry, 282 Sad)  
-- **400 neutral samples**  
-
+- **400 neutral samples**
+  
+You can download the dataset:
+- Neutral    [here]([https://drive.google.com/drive/folders/1YEDFZEQ1JFbLlt6yWUbXaOcph6Xucxg6?usp=sharing])
+- Positive   [here]([https://drive.google.com/drive/folders/1CxTeoL75ZcwrK5R2HV4Vd-Uu3r1o5kLS?usp=sharing])
+- Negative   [here]([https://drive.google.com/drive/folders/1cx36NJ8aHVJY6ZHFDaBSxl6TsxEiGrgK?usp=sharing])
+  
 The dataset consists of human voice recordings in `.wav` format, categorized into **5 emotion classes**:  
 1. Neutral (Netral)  
 2. Happy (Bahagia)  
