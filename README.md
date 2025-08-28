@@ -35,4 +35,17 @@ The classification model was developed through **54 experimental scenarios** des
 To improve performance and prevent overfitting, **dropout regularization** and **hyperparameter tuning** were applied.  
 
 The use of **MFCC** as the primary feature was chosen due to its effectiveness in representing speech characteristics, especially timbre and tonal variations.  
+
 This systematic approach allows comprehensive comparison across models and helps identify the **optimal configuration** for emotion classification.
+
+## 🛡️ Ethical Considerations & Informed Consent
+
+This research involved **actors** as participants for recording emotional speech samples.  
+To ensure ethical compliance:  
+
+- **Informed consent** was obtained from all participating actors.  
+- The recordings were carried out using prepared scripts corresponding to specific emotion classes (Neutral, Happy, Surprise, Angry, Sad).  
+- No personal identifiers (such as names or sensitive information) were included in the dataset.  
+- The dataset is intended solely for **research and educational purposes**, and not for commercial use.  
+
+By using actors and scripted speech, this study avoids the use of sensitive real-world lecturer or student data, while still providing a representative and diverse dataset for training and evaluating emotion recognition models.
